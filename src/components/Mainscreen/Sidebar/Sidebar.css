@@ -1,0 +1,11 @@
+.sidebar__main{
+    width: 15%;
+    border: 1px solid rgb(244, 240, 240);
+}
+.sidebar__container{
+    margin-top: 15px;
+}
+.sidebar__link{
+    text-decoration: none; /* Remove underline */
+    color: inherit;
+}
